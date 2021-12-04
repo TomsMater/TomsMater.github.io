@@ -1,2 +1,1 @@
-Check Out My Website! This website is built using HTML , CSS , JAVASCRIPT !
-Please folow me on github...I would really appreciate it...
+https://tomsmater.github.io/
