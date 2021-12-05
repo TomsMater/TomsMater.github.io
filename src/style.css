@@ -975,3 +975,9 @@ body.light {
  .toggle-input:checked ~ .toggle-switch .toggle-switch-figureAlt {
 	 transform: scale(1);
 }
+
+.footer {
+    color:#51c0be;
+    padding-top:29px;
+    padding-left:39px;
+}
