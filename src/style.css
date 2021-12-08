@@ -17,7 +17,7 @@ body.dark {
 }
 
 body.light {
-	background-image: url("lightmode_bg.jpeg");
+	background-image: url('https://wallpapercave.com/wp/wp8791374.jpg');
 }
 	
 #check {
@@ -578,7 +578,7 @@ body.light {
 }
 
 .light .icon{
-    color: #000;
+    color: #c4c4c4;
     font-size: 1.3rem;
     text-decoration: none;
     margin-right: 8px;
@@ -587,7 +587,7 @@ body.light {
 }
 
 .light .icon:hover{
-    color: #03045f;
+    color: #3a5069;
 }
 
 .light .buttons-wrap{
